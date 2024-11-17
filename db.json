@@ -1,51 +1,36 @@
 {
-   "status":true,
-   "current_page":1,
-   "video_list":[
-      {
-         "reel_id":100,
-         "like_count":10,
-         "reel_url":"https://images.elivehive.com/gifts/fantacy_tiger.mp4",
-         "author_pic":"https://pocolive.sgp1.cdn.digitaloceanspaces.com/test/user/d1fa5fe6-1b1d-4bf0-8fdd-ca828ba80aac.jpeg",
-         "author_id":270,
-         "author_name":"IronMan2",
-         "reel_description":"Tiger is walking on the flame ",
-         "comment_count":"1",
-         "location":"Dhaka, Bangladesh"
-      },
-      {
-         "reel_id":101,
-         "like_count":15,
-         "reel_url":"https://images.elivehive.com/gifts/fantastic_heart.mp4",
-         "author_pic":"https://pocolive.sgp1.cdn.digitaloceanspaces.com/test/user/33b8a39a-e8ea-4bcb-8158-683bd1122d1f.jpeg",
-         "author_id":269,
-         "author_name":"SeverusSnape1",
-         "reel_description":"Heart floating in the sky ",
-         "comment_count":"22",
-         "location":"Dhaka, Bangladesh"
-      },
-      {
-         "reel_id":102,
-         "like_count":15,
-         "reel_url":"https://images.elivehive.com/gifts/starship.mp4",
-         "author_pic":"https://pocolive.sgp1.cdn.digitaloceanspaces.com/test/user/d1fa5fe6-1b1d-4bf0-8fdd-ca828ba80aac.jpeg",
-         "author_id":270,
-         "author_name":"IronMan2",
-         "reel_description":"Heart floating in the sky ",
-         "comment_count":"12",
-         "location":"Dhaka, Bangladesh"
-      },
-      {
-         "reel_id":103,
-         "like_count":10,
-         "reel_url":"https://images.elivehive.com/gifts/fantacy_tiger.mp4",
-         "author_pic":"https://pocolive.sgp1.cdn.digitaloceanspaces.com/test/user/d1fa5fe6-1b1d-4bf0-8fdd-ca828ba80aac.jpeg",
-         "author_id":270,
-         "author_name":"IronMan2",
-         "reel_description":"Tiger is walking on the flame ",
-         "comment_count":"10",
-         "location":"Dhaka, Bangladesh"
-      }
-
-   ]
+  "teachers": [
+    {"name": "John Doe", "department": "Mathematics"},
+    {"name": "Jane Smith", "department": "Physics"},
+    {"name": "Emily Johnson", "department": "Chemistry"},
+    {"name": "Michael Brown", "department": "Biology"},
+    {"name": "Sarah Davis", "department": "History"},
+    {"name": "David Wilson", "department": "English"},
+    {"name": "Laura Martinez", "department": "Computer Science"},
+    {"name": "James Anderson", "department": "Economics"},
+    {"name": "Mary Taylor", "department": "Sociology"},
+    {"name": "Robert Moore", "department": "Political Science"}
+  ],
+  "students": [
+    {"name": "Alice Green", "semester": 1},
+    {"name": "Bob White", "semester": 2},
+    {"name": "Charlie Black", "semester": 3},
+    {"name": "Daisy Blue", "semester": 4},
+    {"name": "Eve Brown", "semester": 5},
+    {"name": "Frank Gray", "semester": 6},
+    {"name": "Grace Gold", "semester": 7},
+    {"name": "Hank Silver", "semester": 8},
+    {"name": "Ivy Red", "semester": 1},
+    {"name": "Jack Pink", "semester": 2},
+    {"name": "Kelly Orange", "semester": 3},
+    {"name": "Leo Yellow", "semester": 4},
+    {"name": "Mia Purple", "semester": 5},
+    {"name": "Nick Violet", "semester": 6},
+    {"name": "Olivia Indigo", "semester": 7},
+    {"name": "Paul Cyan", "semester": 8},
+    {"name": "Quinn Magenta", "semester": 1},
+    {"name": "Rose Brown", "semester": 2},
+    {"name": "Steve Lime", "semester": 3},
+    {"name": "Tina Teal", "semester": 4}
+  ]
 }
